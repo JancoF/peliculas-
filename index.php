@@ -1,6 +1,6 @@
 <?php include("db.php"); ?>
 
-<?php include("/Componentes/header.php"); ?>
+<?php include("Componentes/header.php"); ?>
 
 <main class="container p-4">
   <div class="row">
