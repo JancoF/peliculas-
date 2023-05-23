@@ -1,6 +1,6 @@
-<?php ./path("db.php"); ?>
+<?php include(./path("db.php"); ?>
 
-<?php ./path("Componentes/header.php"); ?>
+<?php include("./pathComponentes/header.php"); ?>
 
 <main class="container p-4">
   <div class="row">
