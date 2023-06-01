@@ -60,7 +60,7 @@
             <td><?php echo $row['titulo']; ?></td>
             <td><?php echo $row['descripcion']; ?></td>
             <td><?php echo $row['genero']; ?></td>
-            <td><img src="/posters/mrrobot.jpg" alt="<?php echo $row['poster_name']; ?>"></td>
+            <td><img width="300px" height="600px"  src="/posters/mrrobot.jpg" alt="<?php echo $row['poster_name']; ?>"></td>
             <td>
               <a href="edit.php?id=<?php echo $row['id']?>" class="btn btn-secondary">
                 <i class="fas fa-marker"></i>
